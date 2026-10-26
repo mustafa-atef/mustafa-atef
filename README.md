@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 🔭 I’m currently working on modern Web Applications using Next.js, React & TypeScript<br>👯 I’m looking to collaborate on open-source Frontend & Full-stack projects<br>🌱 I’m currently learning Next.js Backend architecture, Advanced State Management<br>💬 Ask me about React, Next.js, TypeScript, Tailwind CSS, or UI component setup<br>⚡ Fun fact: I love crafting clean code with ESLint/Prettier and hitting the gym on rest days!<br>
 🤖 I regularly leverage **AI Agents & LLMs** (ChatGPT, Claude, GitHub Copilot, V0) to accelerate frontend workflows and problem-solving
@@ -9,20 +8,20 @@
 ### 🤖 AI & LLM Tools
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mustafa3atefwd-dot&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mustafa3atefwd-dot&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mustafa3atefwd-dot&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=mustafa-atef&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=mustafa-atef&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mustafa-atef&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mustafa3atefwd-dot&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mustafa-atef&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mustafa3atefwd-dot&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=mustafa-atef&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=mustafa3atefwd-dot&icon=9&color=1)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=mustafa-atef&icon=9&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
